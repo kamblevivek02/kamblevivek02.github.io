@@ -6,8 +6,10 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Vivek
 middle_name: #
 last_name: Kamble
-avatar: /assets/img/profile.jpg
-contact_note: Best way to reach me is by sending email to kamblevivek02@gmail.com
+author:
+ name: "Vivek Kamble"
+ avatar: "/assets/img/profile.jpg"
+ contact_notes: "Best way to reach me is by sending email to kamblevivek02@gmail.com"
 description: Cybersecurity Professional with 16+ years of experience
  footer_text:
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

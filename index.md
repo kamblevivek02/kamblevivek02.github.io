@@ -16,32 +16,32 @@ permalink: /
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
   
-  <div class="card" style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div>
     <h3>📋 Governance</h3>
     <p>Security frameworks, policies, and enterprise compliance strategies</p>
   </div>
   
-  <div class="card" style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div>
     <h3>⚠️ Risk Management</h3>
     <p>Vendor risk assessments, gap analysis, and mitigation planning</p>
   </div>
   
-  <div class="card" style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div>
     <h3>✅ Compliance</h3>
     <p>Audit navigation, regulatory readiness, and process optimization</p>
   </div>
   
-  <div class="card" style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div>
     <h3>🤖 AI & Security</h3>
     <p>Leveraging AI for threat detection, automation, and risk prediction</p>
   </div>
 
-  <div class="card" style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div>
     <h3>📊 Audits</h3>
     <p>Internal/external audit coordination, evidence collection, and finding remediation</p>
   </div>
 
-  <div class="card" style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div>
     <h3>🛡️ Cybersecurity Projects</h3>
     <p>End-to-end program delivery, ISO 27001 certification, and TPRM implementation</p>
   </div>
@@ -57,7 +57,7 @@ permalink: /
 
 ## 📢 Featured Insight
 
-> "In 2026 and beyond, cybersecurity isn't just about defense — it's about enabling business innovation securely. GRC professionals must embrace AI as both a tool and a governance challenge."
+> "In 2026 and beyond, cybersecurity isn't just about defense—it's about enabling business innovation securely. GRC professionals must embrace AI as both a tool and a governance challenge."
 
 ---
 

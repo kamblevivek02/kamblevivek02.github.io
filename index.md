@@ -50,3 +50,13 @@ permalink: /
   <a href="/about/" style="background: #2c3e50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Learn More About Me →</a>
   <a href="/projects/" style="background: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-left: 10px;">View My Projects →</a>
 </div>
+
+-------
+
+## 📁 Explore
+
+- [About](/about)
+- [Projects](/projects)
+- [Achievements](/achievements)
+- [Contact](/contact)
+- [Vipassana](/vipassana)

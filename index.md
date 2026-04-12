@@ -51,7 +51,7 @@ permalink: /
   <a href="/projects/" style="background: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-left: 10px;">View My Projects →</a>
 </div>
 
--------
+--------
 
 ## 📁 Explore
 
@@ -60,3 +60,4 @@ permalink: /
 - [Achievements](/achievements)
 - [Contact](/contact)
 - [Vipassana](/vipassana)
+  

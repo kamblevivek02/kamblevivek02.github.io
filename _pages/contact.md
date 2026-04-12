@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Cotact
+title: Contact
 permalink: /contact/
+nav: true
+nav_order: 5
 ---
 
 # Let's Connect

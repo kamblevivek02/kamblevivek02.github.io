@@ -30,20 +30,6 @@ back_to_top: true
 # -----------------------------------------------------------------------------
 theme: jekyll-theme-minimal
 
-# Navigation menu
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Achievements"
-    url: "/achievements"
-  - title: "Contact"
-    url: "/contact"
-  - title: "Vipassana"
-    url: "/vipassana"
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md

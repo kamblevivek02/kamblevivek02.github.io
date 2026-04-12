@@ -106,7 +106,3 @@ Pioneered automation initiatives in business-as-usual (BAU) security operations,
 - Reduced manual effort in compliance reporting
 - Improved accuracy and timeliness of audit evidence
 - Freed up team capacity for higher-value tasks
-  </div>
-  {% endif %}
-{% endif %}
-</div>

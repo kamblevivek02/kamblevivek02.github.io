@@ -21,6 +21,24 @@ icon: ⚛️
 remote_theme: alshedivat/al-folio
 url: https://kamblevivek02.github.io
 baseurl: ""
+# Navigation menu
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Achievements
+    url: /achievements/
+  - title: Blog
+    url: /blog/
+  - title: Gallery
+    url: /gallery/
+  - title: Contact
+    url: /contact/
+  - title: Vipassana
+    url: /vipassana/
 last_updated: false
 impressum_path: 
 back_to_top: true

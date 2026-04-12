@@ -1,9 +1,13 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 nav: true
 nav_order: 2
+profile:
+  align: right
+  image: profile.jpg
+  image_circular: true
 ---
 
 # About Me

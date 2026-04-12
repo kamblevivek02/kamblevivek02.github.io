@@ -51,21 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/vipassana/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "nav-gallery",
+        },{id: "nav-gallery",
           title: "Gallery",
           description: "",
           section: "Navigation",

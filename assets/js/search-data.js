@@ -111,9 +111,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-welcome",
+      },{id: "post-welcome-to-my-cybersecurity-blog",
         
-          title: "Welcome",
+          title: "Welcome to My Cybersecurity Blog",
         
         description: "",
         section: "Posts",

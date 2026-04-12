@@ -6,7 +6,7 @@ permalink: /
 
 <div style="text-align: center; margin-bottom: 40px;">
   <h1>Vivek Kamble</h1>
-  <h3 style="color: #2c3e50;">Cybersecurity & GRC Professional</h3>
+  <h3>Cybersecurity & GRC Professional</h3>
   <p style="font-size: 1.2rem; max-width: 800px; margin: 20px auto;">
     Bridging Governance, Risk & Compliance with AI-driven security solutions
   </p>

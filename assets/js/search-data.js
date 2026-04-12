@@ -79,13 +79,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/vipassana/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",

@@ -2,6 +2,8 @@
 layout: page
 title: Vipassana
 permalink: /vipassana/
+nav: true
+nav_order: 6
 ---
 
 

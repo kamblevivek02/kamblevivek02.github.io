@@ -7,7 +7,7 @@ nav: false
 
 <style>
   .hero-test {
-    background-image: assets/img/background1.jpg;
+    background-image: url('/assets/img/background1.jpg');
     background-size: cover;
     background-position: center;
     padding: 80px 20px;

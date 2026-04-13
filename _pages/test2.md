@@ -7,7 +7,7 @@ nav: false
 
 <style>
   .hero-subtle {
-    background-image: /assets/img/background1.jpg;
+    background-image: url('/assets/img/background1.jpg');
     background-size: cover;
     background-position: center;
     padding: 40px 20px;

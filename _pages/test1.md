@@ -15,7 +15,7 @@ nav: false
     text-align: center;
     margin-bottom: 30px;
   }
-  .hero-test h2, .hero-test p {
+  .hero-test h2, .hero-test h3, .hero-test p {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     color: white;
   }

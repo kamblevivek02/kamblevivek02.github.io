@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test Style 5 - Left Aligned Hero
-permalink: /test5/
+title: Test Style 6 - Left Aligned Hero
+permalink: /test6/
 nav: false
 ---
 

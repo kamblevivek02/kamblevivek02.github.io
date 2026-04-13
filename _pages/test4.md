@@ -7,7 +7,7 @@ nav: false
 
 <style>
   .hero-pattern {
-    background-image: /assets/img/background1.jpg;
+    background-image: url('/assets/img/background1.jpg');
     background-repeat: repeat;
     padding: 60px 20px;
     border-radius: 10px;

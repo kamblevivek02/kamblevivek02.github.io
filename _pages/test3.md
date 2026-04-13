@@ -5,7 +5,7 @@ permalink: /test3/
 nav: false
 styles: >
   body {
-    background-image: /assets/img/background1.jpg;
+    background-image: url('/assets/img/background1.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;

@@ -52,21 +52,10 @@ permalink: /
     gap: 20px;
     margin: 30px 0;
   }
+  /* No background styling - let theme handle it naturally */
   .feature-card {
     padding: 20px;
     border-radius: 10px;
-    border: 1px solid var(--global-border-color, #e8e8e8);
-  }
-  /* Light mode card background */
-  .feature-card {
-    background-color: #f8f9fa;
-  }
-  /* Dark mode card background */
-  html[data-theme="dark"] .feature-card {
-    background-color: #2a2a2a;
-  }
-  .feature-card h3 {
-    margin-top: 0;
   }
 </style>
 

@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 profile:
   align: right
-  image: profile.jpg
+  image: profile6.jpg
   image_circular: true
 ---
 

@@ -5,7 +5,6 @@ permalink: /contact/
 nav: true
 nav_order: 6
 ---
-
 # Let's Connect
 
 I'm always open to meaningful conversations about cybersecurity, GRC, risk management, security operations, or project leadership opportunities.

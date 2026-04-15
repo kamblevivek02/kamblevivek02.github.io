@@ -46,6 +46,28 @@ permalink: /
     max-width: 600px;
     line-height: 1.5;
   }
+  .feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+  }
+  .feature-card {
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid var(--global-border-color, #e8e8e8);
+  }
+  /* Light mode card background */
+  .feature-card {
+    background-color: #f8f9fa;
+  }
+  /* Dark mode card background */
+  html[data-theme="dark"] .feature-card {
+    background-color: #2a2a2a;
+  }
+  .feature-card h3 {
+    margin-top: 0;
+  }
 </style>
 
 <div class="hero-left">
@@ -58,28 +80,28 @@ permalink: /
 
 ## 🔐 What I Do
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-  <div style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+<div class="feature-grid">
+  <div class="feature-card">
     <h3>📋 Governance</h3>
     <p>Security frameworks, policies, and enterprise compliance strategies</p>
   </div>
-  <div style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div class="feature-card">
     <h3>⚠️ Risk Management</h3>
     <p>Vendor risk assessments, gap analysis, and mitigation planning</p>
   </div>
-  <div style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div class="feature-card">
     <h3>✅ Compliance</h3>
     <p>Audit navigation, regulatory readiness, and process optimization</p>
   </div>
-  <div style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div class="feature-card">
     <h3>🤖 AI & Security</h3>
     <p>Leveraging AI for threat detection, automation, and risk prediction</p>
   </div>
-  <div style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div class="feature-card">
     <h3>📊 Audits</h3>
     <p>Internal/external audit coordination, evidence collection, and finding remediation</p>
   </div>
-  <div style="padding: 20px; border-radius: 10px; background: var(--global-card-bg, #f8f9fa); border: 1px solid var(--global-border-color, #e8e8e8);">
+  <div class="feature-card">
     <h3>🛡️ Cybersecurity Projects</h3>
     <p>End-to-end program delivery, ISO 27001 certification, and TPRM implementation</p>
   </div>

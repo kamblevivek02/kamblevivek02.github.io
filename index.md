@@ -46,16 +46,28 @@ permalink: /
     max-width: 600px;
     line-height: 1.5;
   }
-  .feature-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin: 30px 0;
+  .approach-text {
+    margin: 40px 0 30px 0;
+    line-height: 1.6;
   }
-  /* No background styling - let theme handle it naturally */
-  .feature-card {
-    padding: 20px;
-    border-radius: 10px;
+  .approach-text p {
+    margin-bottom: 15px;
+  }
+  .cert-badge {
+    display: inline-block;
+    background: var(--global-card-bg, #f8f9fa);
+    border: 1px solid var(--global-border-color, #e8e8e8);
+    border-radius: 30px;
+    padding: 8px 18px;
+    margin: 0 10px 15px 0;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  .cert-section {
+    margin: 40px 0 20px 0;
+  }
+  .cert-section h2 {
+    margin-bottom: 20px;
   }
 </style>
 
@@ -67,45 +79,57 @@ permalink: /
   <a href="/projects/" class="btn btn--secondary">View My Projects →</a>
 </div>
 
+## My Approach
+
+<div class="approach-text">
+  <p>I firmly believe in a simple principle: <strong>prevention is better than cure</strong>. Every solution I build is grounded in trusted industry best practices and designed to mitigate risk before it becomes a problem.</p>
+
+  <p>With 16 years of IT experience across multiple geographies, I bridge the gap between business objectives and technical requirements. Translating complex risks into clear, actionable strategies that resonate with stakeholders at every level is something I am skilled at doing. Whether collaborating with cross-functional teams or presenting to executive leadership, my focus is always on practical outcomes.</p>
+</div>
+
 ## 🔐 What I Do
 
-<div class="feature-grid">
-  <div class="feature-card">
-    <h3>📋 Governance</h3>
-    <p>Security frameworks, policies, and enterprise compliance strategies</p>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 30px 0;">
+  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
+    <h3 style="margin-top: 0;">📋 Governance</h3>
+    <p style="margin-bottom: 0;">Security frameworks, policies, and enterprise compliance strategies</p>
   </div>
-  <div class="feature-card">
-    <h3>⚠️ Risk Management</h3>
-    <p>Vendor risk assessments, gap analysis, and mitigation planning</p>
+  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
+    <h3 style="margin-top: 0;">⚠️ Risk Management</h3>
+    <p style="margin-bottom: 0;">Vendor risk assessments, gap analysis, and mitigation planning</p>
   </div>
-  <div class="feature-card">
-    <h3>✅ Compliance</h3>
-    <p>Audit navigation, regulatory readiness, and process optimization</p>
+  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
+    <h3 style="margin-top: 0;">✅ Compliance</h3>
+    <p style="margin-bottom: 0;">Audit navigation, regulatory readiness, and process optimization</p>
   </div>
-  <div class="feature-card">
-    <h3>🤖 AI & Security</h3>
-    <p>Leveraging AI for threat detection, automation, and risk prediction</p>
+  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
+    <h3 style="margin-top: 0;">🤖 AI & Security</h3>
+    <p style="margin-bottom: 0;">Leveraging AI for threat detection, automation, and risk prediction</p>
   </div>
-  <div class="feature-card">
-    <h3>📊 Audits</h3>
-    <p>Internal/external audit coordination, evidence collection, and finding remediation</p>
+  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
+    <h3 style="margin-top: 0;">📊 Audits</h3>
+    <p style="margin-bottom: 0;">Internal/external audit coordination, evidence collection, and finding remediation</p>
   </div>
-  <div class="feature-card">
-    <h3>🛡️ Cybersecurity Projects</h3>
-    <p>End-to-end program delivery, ISO 27001 certification, and TPRM implementation</p>
+  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
+    <h3 style="margin-top: 0;">🛡️ Cybersecurity Projects</h3>
+    <p style="margin-bottom: 0;">End-to-end program delivery, ISO 27001 certification, and TPRM implementation</p>
   </div>
 </div>
 
-## 🚀 Emerging Focus Areas
+## 📜 Frameworks & Standards
 
-- **AI Governance & Ethics** - Responsible AI frameworks
-- **Cloud Security Posture Management** - CSPM implementation
-- **Zero Trust Architecture** - Modern security models
-- **Cyber Resilience** - Business continuity & incident response
-
-## 📢 Featured Insight
-
-> "In 2026 and beyond, cybersecurity isn't just about defense—it's about enabling business innovation securely. GRC professionals must embrace AI as both a tool and a governance challenge."
+<div class="cert-section">
+  <div>
+    <span class="cert-badge">ISO 27001</span>
+    <span class="cert-badge">ISO 31000</span>
+    <span class="cert-badge">NIST</span>
+    <span class="cert-badge">GDPR</span>
+    <span class="cert-badge">DORA</span>
+    <span class="cert-badge">NIS2</span>
+    <span class="cert-badge">EU AI Act</span>
+    <span class="cert-badge">ISO 42001</span>
+  </div>
+</div>
 
 ---
 

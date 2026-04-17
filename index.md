@@ -79,6 +79,24 @@ permalink: /
     border-color: #4a4a4a;
     color: #e0e0e0;
   }
+  /* 2x2 Grid for cards */
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    margin: 30px 0;
+  }
+  .service-card {
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid var(--global-border-color, #e8e8e8);
+  }
+  .service-card h3 {
+    margin-top: 0;
+  }
+  .service-card p {
+    margin-bottom: 0;
+  }
 </style>
 
 <div class="hero-left">
@@ -99,30 +117,22 @@ permalink: /
 
 ## 🔐 What I Do
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 30px 0;">
-  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
-    <h3 style="margin-top: 0;">📋 Governance</h3>
-    <p style="margin-bottom: 0;">Security frameworks, policies, and enterprise compliance strategies</p>
+<div class="services-grid">
+  <div class="service-card">
+    <h3>🔐 Cybersecurity Solutions</h3>
+    <p>Security solution evaluation, onboarding & support</p>
   </div>
-  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
-    <h3 style="margin-top: 0;">⚠️ Risk Management</h3>
-    <p style="margin-bottom: 0;">Vendor risk assessments, gap analysis, and mitigation planning</p>
+  <div class="service-card">
+    <h3>📋 Governance, Risk & Compliance</h3>
+    <p>Frameworks, risk assessments, compliance readiness</p>
   </div>
-  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
-    <h3 style="margin-top: 0;">✅ Compliance</h3>
-    <p style="margin-bottom: 0;">Audit navigation, regulatory readiness, and process optimization</p>
+  <div class="service-card">
+    <h3>📊 Audits & Projects</h3>
+    <p>Audit coordination and end-to-end project delivery</p>
   </div>
-  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
-    <h3 style="margin-top: 0;">🤖 AI & Security</h3>
-    <p style="margin-bottom: 0;">Leveraging AI for threat detection, automation, and risk prediction</p>
-  </div>
-  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
-    <h3 style="margin-top: 0;">📊 Audits</h3>
-    <p style="margin-bottom: 0;">Internal/external audit coordination, evidence collection, and finding remediation</p>
-  </div>
-  <div style="padding: 25px; border-radius: 10px; border: 1px solid var(--global-border-color, #e8e8e8);">
-    <h3 style="margin-top: 0;">🛡️ Cybersecurity Projects</h3>
-    <p style="margin-bottom: 0;">End-to-end program delivery, ISO 27001 certification, and TPRM implementation</p>
+  <div class="service-card">
+    <h3>⚙️ SaaS, IoT & AI Security</h3>
+    <p>Cloud governance, OT/IoT protection, AI enablement</p>
   </div>
 </div>
 

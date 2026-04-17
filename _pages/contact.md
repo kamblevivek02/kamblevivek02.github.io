@@ -13,7 +13,7 @@ Whether you're a recruiter, hiring manager, or fellow security professional — 
 
 ## Contact Information
 
-**📧 Email:** kamblevivek02 [at] gmail [dot] com
+**📧 Email:** kamblevivek02@gmail.com
 
 **🔗 LinkedIn:** [linkedin.com/in/vivekkamble02](https://www.linkedin.com/in/vivekkamble02)
 

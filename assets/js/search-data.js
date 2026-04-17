@@ -58,13 +58,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "nav-vipassana",
-          title: "Vipassana",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/vipassana/";
-          },
         },{id: "nav-gallery",
           title: "Gallery",
           description: "",

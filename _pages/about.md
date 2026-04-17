@@ -10,8 +10,6 @@ profile:
   image_circular: true
 ---
 
-# About Me
-
 I am a seasoned cybersecurity professional with over 15 years of experience across governance, risk, compliance, security operations, and project leadership. I help organizations turn security into a business enabler — not a bottleneck.
 
 My career spans **telecommunications, financial services, and consulting**, giving me a broad perspective on how to balance risk, regulation, and operational reality. I've led ISO 27001 certification programs, built third-party risk management (TPRM) frameworks from scratch, directed incident response, and embedded security into product development lifecycles.

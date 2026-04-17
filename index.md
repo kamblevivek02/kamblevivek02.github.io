@@ -53,21 +53,31 @@ permalink: /
   .approach-text p {
     margin-bottom: 15px;
   }
-  .cert-badge {
-    display: inline-block;
-    background: var(--global-card-bg, #f8f9fa);
-    border: 1px solid var(--global-border-color, #e8e8e8);
-    border-radius: 30px;
-    padding: 8px 18px;
-    margin: 0 10px 15px 0;
-    font-size: 0.9rem;
-    font-weight: 500;
+  .italic-text {
+    font-style: italic;
   }
   .cert-section {
     margin: 40px 0 20px 0;
   }
   .cert-section h2 {
     margin-bottom: 20px;
+  }
+  .cert-badge {
+    display: inline-block;
+    background-color: #f0f0f0;
+    border: 1px solid #d0d0d0;
+    border-radius: 30px;
+    padding: 8px 18px;
+    margin: 0 10px 15px 0;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #333333;
+  }
+  /* Dark mode overrides */
+  html[data-theme="dark"] .cert-badge {
+    background-color: #2a2a2a;
+    border-color: #4a4a4a;
+    color: #e0e0e0;
   }
 </style>
 
@@ -82,7 +92,7 @@ permalink: /
 ## My Approach
 
 <div class="approach-text">
-  <p>I firmly believe in a simple principle: <strong>prevention is better than cure</strong>. Every solution I build is grounded in trusted industry best practices and designed to mitigate risk before it becomes a problem.</p>
+  <p class="italic-text">I firmly believe in a simple principle: prevention is better than cure. Every solution I build is grounded in trusted industry best practices and designed to mitigate risk before it becomes a problem.</p>
 
   <p>With 16 years of IT experience across multiple geographies, I bridge the gap between business objectives and technical requirements. Translating complex risks into clear, actionable strategies that resonate with stakeholders at every level is something I am skilled at doing. Whether collaborating with cross-functional teams or presenting to executive leadership, my focus is always on practical outcomes.</p>
 </div>

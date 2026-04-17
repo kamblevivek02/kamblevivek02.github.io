@@ -3,10 +3,8 @@ layout: page
 title: Contact
 permalink: /contact/
 nav: true
-nav_order: 6
+nav_order: 7
 ---
-# Let's Connect
-
 I'm always open to meaningful conversations about cybersecurity, GRC, risk management, security operations, or project leadership opportunities.
 
 Whether you're a recruiter, hiring manager, or fellow security professional — feel free to reach out.

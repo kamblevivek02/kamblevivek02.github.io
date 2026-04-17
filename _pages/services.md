@@ -3,10 +3,8 @@ layout: page
 title: Services
 permalink: /services/
 nav: true
-nav_order: 3
+nav_order: 4
 ---
-
-# Services
 
 I offer a comprehensive range of cybersecurity and GRC services tailored to organizations of all sizes. Each engagement is grounded in industry best practices and focused on practical, measurable outcomes.
 

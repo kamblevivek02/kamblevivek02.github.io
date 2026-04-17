@@ -29,6 +29,8 @@ navigation:
     url: /about/
   - title: Projects
     url: /projects/
+  - title: Expertise
+    url: /expertise/
   - title: Achievements
     url: /achievements/
   - title: Blog

@@ -5,8 +5,8 @@ permalink: /about/
 nav: true
 nav_order: 2
 profile:
-  align: center
-  image: Profile8.jpeg
+  align: right
+  image: profile.jpg
   image_circular: true
 ---
 
@@ -31,17 +31,3 @@ Beyond work, I practice **Vipassana meditation**, which sharpens my focus, resil
 - **PMP** – Project Management Professional (2020)
 - **PMI-ACP** – Agile Certified Practitioner (2022)
 - **CCNP** – Route & Switch, Cisco (2012)
-
----
-
-## Core Competencies
-
-| Area | Details |
-|------|---------|
-| **GRC** | ISO 27001, NIST CSF, COBIT, CIS Controls, GDPR, NIS2, DORA |
-| **TPRM** | Vendor assessments, risk tiering, due diligence, contractual security |
-| **Audit** | Internal/external audit coordination, evidence collection, finding remediation |
-| **Risk Management** | Enterprise risk assessments, treatment planning, risk appetite |
-| **Security Operations** | Incident response, SOC monitoring, vulnerability management |
-| **Cloud Security** | AWS, Azure, IAM, encryption, access controls |
-| **Project Leadership** | PMP, Agile, cross-functional coordination, stakeholder management |

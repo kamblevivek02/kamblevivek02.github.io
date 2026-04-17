@@ -28,14 +28,3 @@ Honored for leading **third-party risk management and incident response** for FI
 Recognized for outstanding performance in **network delivery, security leadership, and client success** across 50+ financial services clients.
 
 ---
-
-## 📊 Key Metrics Summary
-
-| Metric | Result |
-|--------|--------|
-| **Zero material findings** | 3 consecutive years of ISO 27001 surveillance audits |
-| **95% audit finding closure rate** | Across internal and external audits |
-| **60% reduction** | In vendor onboarding time through standardized TPRM framework |
-| **100+ vendors** | Assessed and managed in TPRM program |
-| **25+ security policies** | Developed and maintained |
-| **1,000+ employees** | Trained in security awareness |

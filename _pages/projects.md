@@ -27,7 +27,7 @@ I approach risk and challenges with a **solution-oriented mindset**. Rather than
 | 1 | Automation Initiative |
 | 2 | Cisco Gold Partner Certification Audit |
 | 3 | ISO 27001 Certification |
-| 4 | FIFA World Cup 2022 – Security Support |
+| 4 | FIFA World Cup 2022 – (Multiple Projects) |
 | 5 | NIST CSF Adoption |
 | 6 | Security Awareness & Training Program |
 | 7 | Network Monitoring Optimization |

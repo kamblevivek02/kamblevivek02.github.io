@@ -5,8 +5,8 @@ permalink: /about/
 nav: true
 nav_order: 2
 profile:
-  align: right
-  image: profile.jpg
+  align: center
+  image: Profile8.jpeg
   image_circular: true
 ---
 

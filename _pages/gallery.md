@@ -3,22 +3,60 @@ layout: page
 title: Gallery
 permalink: /gallery/
 nav: true
-nav_order: 8
+nav_order: 7
 ---
 
-## My Work Gallery
+## My Workplace Memories
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-  <img src="https://picsum.photos/id/1/300/200" alt="Placeholder 1" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/2/300/200" alt="Placeholder 2" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/3/300/200" alt="Placeholder 3" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/4/300/200" alt="Placeholder 4" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/5/300/200" alt="Placeholder 5" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/6/300/200" alt="Placeholder 6" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/7/300/200" alt="Placeholder 7" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/8/300/200" alt="Placeholder 8" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/9/300/200" alt="Placeholder 9" style="width:100%; border-radius:8px;">
-  <img src="https://picsum.photos/id/10/300/200" alt="Placeholder 10" style="width:100%; border-radius:8px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; margin-top: 20px;">
+
+  <!-- SPOT AWARDS -->
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/SpotAward1.jpg" alt="Receiving SPOT Award" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>SPOT Award</strong><br>Receiving Award
+    </figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/SpotAward2.jpg" alt="SPOT Award Certificate" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>SPOT Award</strong><br>Certificate
+    </figcaption>
+  </figure>
+
+  <!-- CISCO AWARDS -->
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/CiscoAward1.jpg" alt="Receiving Cisco Award" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>Cisco Gold Audit Award</strong><br>Receiving Award
+    </figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/CiscoAward2.jpg" alt="Cisco Award Certificate" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>Cisco Gold Audit Award</strong><br>Certificate
+    </figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/CiscoAward3.jpg" alt="Cisco Award Team" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>Cisco Gold Audit Award</strong><br>Team Recognition
+    </figcaption>
+  </figure>
+
+  <!-- RESERVED SLOTS FOR FUTURE UPLOADS -->
+  <!-- 
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/future-photo1.jpg" alt="Description" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>Title</strong><br>Caption
+    </figcaption>
+  </figure>
+  -->
+
 </div>
 
-*Placeholder images from picsum.photos. Replace with your own images later.*
+*Additional images will be added over time.*

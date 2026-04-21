@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-artificial-intelligence-act-eu",
+        
+          title: "Artificial Intelligence Act - EU",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/EU_AI_ACT/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         

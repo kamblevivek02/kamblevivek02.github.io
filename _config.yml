@@ -33,8 +33,8 @@ navigation:
     url: /expertise/
   - title: Achievements
     url: /achievements/
-  - title: Blog
-    url: /blog/
+ # - title: Blog
+ #   url: /blog/
   - title: Gallery
     url: /gallery/
   - title: Contact

@@ -20,7 +20,7 @@ Recognized for exceptional contribution to ongoing projects, specifically for ma
 
 ## 🏆 ABTAL Award – FIFA World Cup 2022
 
-Honored for leading **third-party risk management and incident response** for FIFA World Cup 2022 critical infrastructure — achieving zero incidents and 60% faster vendor onboarding.
+Honored for leading **third-party risk management and incident response** for FIFA World Cup 2022 critical infrastructure.
 
 ---
 

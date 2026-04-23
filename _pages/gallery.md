@@ -47,6 +47,14 @@ nav_order: 7
     </figcaption>
   </figure>
 
+<figure style="margin: 0; text-align: center;">
+    <img src="/assets/img/gallery/CG_2017.jpg" alt="CG Award" style="width:100%; border-radius:8px;">
+    <figcaption style="margin-top: 10px; font-size: 0.85rem; color: var(--global-text-color, #333);">
+      <strong>CG Award</strong><br>Leadership Recognition
+    </figcaption>
+  </figure>
+
+
   <!-- RESERVED SLOTS FOR FUTURE UPLOADS -->
   <!-- 
   <figure style="margin: 0; text-align: center;">
